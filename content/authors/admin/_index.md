@@ -30,7 +30,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:vbossica@gmail.com'
     label: E-mail Me
-  - icon: github
+  - icon: brands/github
     url: https://github.com/vbossica
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/vladimir-ritz-bossicard
