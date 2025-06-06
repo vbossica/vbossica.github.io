@@ -2,9 +2,6 @@
 # Display name
 title: Vladimir Ritz Bossicard
 
-# Name pronunciation (optional)
-name_pronunciation: Vladimir Ritz Bossicard
-
 # Full name (for SEO)
 first_name: Vladimir
 last_name: Ritz Bossicard
