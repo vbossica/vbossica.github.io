@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Vladimir Ritz Bossicard
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Vladimir Ritz Bossicard
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Vladimir
+last_name: Ritz Bossicard
 
 # Status emoji
 status:
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -31,14 +31,12 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:vbossica@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: github
+    url: https://github.com/vbossica
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/vladimir-ritz-bossicard
   - icon: rss
     url: ./post/index.xml
     label: Subscribe to my blog via RSS feed
@@ -50,6 +48,4 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm just another Software Engineer.
